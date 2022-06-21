@@ -1,0 +1,25 @@
+.EmptyUsersPage {
+    height: 30px;
+    width: 1103px;
+    margin-top: 24px;
+    margin-bottom: 850px;
+    margin-left: 220px;
+    margin-right: 117px;
+}
+
+.Text {
+    height: 39px;
+    width: 276px;
+    color: #B5B5B5;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 39px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}

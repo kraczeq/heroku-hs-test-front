@@ -1,0 +1,61 @@
+.TaskbarExterior{
+    height: auto;
+    width: 88px;
+    border-radius: 24px;
+    background-color: #506EDF;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,0.5);
+    padding-bottom: 25px;
+    position: absolute;
+    top: 50%;
+    left: 14%;
+    transform: translate(-50%, -50%);
+}
+
+.TaskbarLogoWrapper{
+    text-align: center;
+    padding-top: 16px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.TaskbarLogo{
+    height: 52px;
+    width: 52px;
+}
+
+.IconsWrapper{
+    padding-top: 20vh;
+}
+
+.InitialsWrapper{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    height: 52px;
+    width: 52px;
+    border-radius: 50%;
+    background-color: #8EA3EF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
+
+.Initials{
+    font-family: 'Montserrat', sans-serif;
+    height: 29px;
+    width: 38px;
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E912C5B3-3FF2-45AD-BD96-C2318B9FCB74</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.894036 0 0 0 0 0.905934 0 0 0 0 0.937143 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.-Home" transform="translate(-42.000000, -40.000000)">
+            <g id="circle-h" transform="translate(24.000000, 24.000000)" filter="url(#filter-1)">
+                <g transform="translate(18.000000, 16.000000)">
+                    <path d="M26,0 C11.6390625,0 0,11.6390625 0,26 C0,40.3609375 11.6390625,52 26,52 C40.3609375,52 52,40.3609375 52,26 C52,11.6390625 40.3609375,0 26,0 Z M37.375,36.5625 C37.375,37.9082031 36.2832031,39 34.9375,39 C33.5917969,39 32.5,37.9132812 32.5,36.5625 L32.5,28.4375 L19.5,28.4375 L19.5,36.5625 C19.5,37.9132812 18.4132813,39 17.0625,39 C15.7117187,39 14.625,37.9132812 14.625,36.5625 L14.625,15.4375 C14.625,14.096875 15.721875,13 17.0625,13 C18.403125,13 19.5,14.096875 19.5,15.4375 L19.5,23.5625 L32.5,23.5625 L32.5,15.4375 C32.5,14.096875 33.596875,13 34.9375,13 C36.278125,13 37.375,14.0917969 37.375,15.4375 L37.375,36.5625 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

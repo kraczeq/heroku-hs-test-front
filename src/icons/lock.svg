@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E9E5CB2A-4D5D-46CD-81E8-A18F2C8706AD</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.709741 0 0 0 0 0.709845 0 0 0 0 0.709718 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Login" transform="translate(-825.000000, -532.000000)">
+            <g id="Group" transform="translate(520.000000, 246.000000)">
+                <g id="lock" transform="translate(0.000000, 111.000000)" filter="url(#filter-1)">
+                    <g transform="translate(305.000000, 175.000000)">
+                        <path d="M3.0234375,7.25625 L3.0234375,5.4421875 C3.0234375,2.4365127 5.46108398,0 8.465625,0 C11.470166,0 13.9078125,2.4365127 13.9078125,5.4421875 L13.9078125,7.25625 L14.5125,7.25625 C15.8465918,7.25625 16.93125,8.3409082 16.93125,9.675 L16.93125,16.93125 C16.93125,18.2653418 15.8465918,19.35 14.5125,19.35 L2.41875,19.35 C1.08276855,19.35 0,18.2653418 0,16.93125 L0,9.675 C0,8.3409082 1.08276855,7.25625 2.41875,7.25625 L3.0234375,7.25625 Z M5.4421875,7.25625 L11.4890625,7.25625 L11.4890625,5.4421875 C11.4890625,3.77249414 10.1360742,2.41875 8.465625,2.41875 C6.79517578,2.41875 5.4421875,3.77249414 5.4421875,5.4421875 L5.4421875,7.25625 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

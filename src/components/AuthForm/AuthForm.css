@@ -1,0 +1,52 @@
+.AuthFormBox {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.BorderBox {
+    height: auto;
+    width: 401px;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+.InputBox {
+    padding-top: 30px;
+}
+
+.SeparatorBox {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.Separator {
+    width: 100%;
+    text-align: center;
+    color: #2F2F2F;
+    font-family: 'Montserrat', sans-serif;
+    border-bottom: 1px solid #B5B5B5;
+    line-height: 0.1em;
+    margin-bottom: 30px;
+}
+
+.Line {
+    background: #FFFFFF;
+    padding: 0 10px;
+}
+
+.LinkBox {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.Link {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: #2F2F2F;
+    margin-bottom: 5px;
+}

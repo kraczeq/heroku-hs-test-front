@@ -1,0 +1,27 @@
+.WeekScheduleGridContainer {
+    height: 600px;
+    width: 1155px;
+    border-radius: 24px;
+    overflow-y: scroll;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.5);
+    position: absolute;
+    text-align: center;
+    height: 750px;
+    top: 54%;
+    left: 50.5%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.ButtonsBox{
+    display: inline-flex;
+    gap: 15px;
+    position: absolute;
+    text-align: center;
+    height: 750px;
+    top: 44.5%;
+    left: 72%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}

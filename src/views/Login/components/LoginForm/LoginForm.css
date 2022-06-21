@@ -1,0 +1,68 @@
+.LoginForm {
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.FormWrapper {
+    padding-top: 35px;
+}
+
+.Label {
+    color: #2F2F2F;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    padding-left: 78px;
+}
+
+.InputWrapper {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.InputForm {
+    box-sizing: border-box;
+    display: inline-block;
+    height: 54px;
+    width: 287px;
+    border: 1px solid #979797;
+    border-radius: 27px;
+    background-color: #FFFFFF;
+    align-self: center;
+    padding: 20px;
+}
+
+input[type=email] {
+    box-sizing: border-box;
+    background-color: white;
+    background-image: url("../../../../icons/user.svg");
+    background-size: 19.35px 16.93px;
+    background-repeat: no-repeat;
+    background-position: 94.5%, 50%;
+    font-family: 'Montserrat', sans-serif;
+    color: #2F2F2F;
+    font-size: medium;
+}
+
+input[type=password] {
+    box-sizing: border-box;
+    background-color: white;
+    background-image: url("../../../../icons/lock.svg");
+    background-size: 21.35px 16.93px;
+    background-repeat: no-repeat;
+    background-position: 94.5%, 50%;
+    font-family: 'Montserrat', sans-serif;
+    color: #2F2F2F;
+    font-size: medium;
+}
+
+.ValidationError {
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    margin-top: 5px;
+}

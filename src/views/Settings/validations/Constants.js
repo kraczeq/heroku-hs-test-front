@@ -1,0 +1,1 @@
+export const hourRegex = /^[a-zA-Z!@#\$%\^\&*\)\(+=._-]+$/g;

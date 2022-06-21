@@ -1,0 +1,17 @@
+.JobTypeDropdownWrapper {
+    display: inline-block;
+}
+
+.SelectionWrapper {
+    box-sizing: border-box;
+    height: 32.11px;
+    width: 150px;
+    border: 0.3px solid #979797;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 5px ;
+    font-size: 15px;
+    background-color: rgba(80, 110, 223, 0.1);
+    
+}

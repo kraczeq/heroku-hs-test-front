@@ -1,0 +1,17 @@
+.DayGridWrapper {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.LabelWrapper {
+    font: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    padding-right: 1070px;
+    padding-left: 75px;
+}
+
+.SvgWrapper {
+    display: inline-block;
+    margin-left: 10px;
+}

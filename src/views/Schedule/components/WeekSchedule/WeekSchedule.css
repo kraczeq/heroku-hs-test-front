@@ -1,0 +1,73 @@
+.SavedScheduleWrapper {
+    margin-top: 22px;
+    height: 71px;
+    width: 1102px;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+}
+.SavedScheduleWrapperBeforeToday{
+  margin-top: 22px;
+  height: 71px;
+  width: 1102px;
+  border-radius: 24px;
+  background-color: #FFFFFF;
+  box-shadow: 0 1px 4px 0 rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  opacity: 0.5;
+}
+.SavedScheduleWrapper:hover {
+    background-color: #ffffff6d;
+    cursor: pointer;
+}
+.SavedScheduleWrapperBeforeToday :hover {
+    cursor:pointer;
+}
+.ScheduleDataWrapper {
+    margin-left: 20px;
+}
+
+.SavedScheduleDateContent {
+    height: 27px;
+    color: #2F2F2F;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 27px;
+    width:850px;
+    display: flex;
+  
+    
+}
+
+.SavedScheduleGenerationContent {
+    margin-left: 8px;
+    height: 27px;
+    width: 176px;
+    color: gray;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 27px;
+    
+}
+
+.EmployeesWrapper {
+    display: flex;
+    flex-direction: row;
+    margin-left:0px;
+   
+    
+}
+.EmployeesContainer{
+    margin-left:10px;
+    width:140px;
+    margin-right: 100px;
+
+    
+}

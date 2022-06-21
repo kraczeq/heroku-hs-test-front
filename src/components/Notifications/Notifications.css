@@ -1,0 +1,110 @@
+.NotificationBox {
+    position: fixed;
+    box-sizing: border-box;
+    display: block;
+    height: 59px;
+    width: 567px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    margin: 0;
+    top: 94%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    animation: notification-in-bottom .9s;
+}
+
+.CloseButton {
+    position: absolute;
+    cursor: pointer;
+    border: none;
+    width: 12px;
+    height: 12px;
+    top: 25px;
+    right: 12px;
+    background-image: url("../../icons/hide.svg");
+    background-color: white;
+    background-repeat: no-repeat;
+}
+
+.AlertBox {
+    box-sizing: border-box;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    height: 59px;
+    width: 40px;
+    position: fixed;
+}
+
+.TextBox {
+    position: absolute;
+    box-sizing: content-box;
+    height: 59px;
+    width: 567px;
+}
+
+.TextBox p:first-child {
+    position: relative;
+    padding-left: 50px;
+    color: #2F2F2F;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 10px;
+    margin-top: 15px;
+}
+
+.TextBox p:last-child {
+    position: relative;
+    padding-left: 50px;
+    color: #2F2F2F;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 8px;
+}
+
+div[type="Warning"] {
+    position: absolute;
+    background-color: #DC7F2E;
+    background-image: url("../../icons/warning.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+div[type="Error"] {
+    position: absolute;
+    background-color: #B72831;
+    background-image: url("../../icons/error.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+div[type="Info"] {
+    position: absolute;
+    background-color: #355D9B;
+    background-image: url("../../icons/info.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+div[type="Success"] {
+    position: absolute;
+    background-color: #1E7756;
+    background-image: url("../../icons/success.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@keyframes notification-in-bottom {
+    from {
+        transform: translate(-50%, 175%);
+    }
+
+    to {
+        transform: translate(-50%, -50%);
+    }
+}

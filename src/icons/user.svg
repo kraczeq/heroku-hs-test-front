@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="19px" viewBox="0 0 17 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ED8CCA09-D528-4BB8-ACDF-DB626C251067</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.709741 0 0 0 0 0.709845 0 0 0 0 0.709718 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Login" transform="translate(-825.000000, -439.000000)">
+            <g id="Group" transform="translate(520.000000, 246.000000)">
+                <g id="user" transform="translate(0.000000, 111.000000)" filter="url(#filter-1)">
+                    <g transform="translate(305.000000, 82.000000)">
+                        <path d="M8.09375,9.25 C10.6483398,9.25 12.71875,7.17922852 12.71875,4.625 C12.71875,2.07077148 10.6483398,0 8.09375,0 C5.53916016,0 3.46875,2.07077148 3.46875,4.625 C3.46875,7.17922852 5.53916016,9.25 8.09375,9.25 Z M9.92568359,10.984375 L6.26181641,10.984375 C2.80426758,10.984375 0,13.7882813 0,17.2461914 C0,17.9377734 0.56078125,18.4989176 1.25236328,18.4989176 L14.9358594,18.4989176 C15.6274414,18.5 16.1875,17.9399414 16.1875,17.2461914 C16.1875,13.7882813 13.3835937,10.984375 9.92568359,10.984375 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="34px" viewBox="0 0 30 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>53742975-F437-4D8D-BAD9-7D9A98F4B25D</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.894036 0 0 0 0 0.905934 0 0 0 0 0.937143 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.-Home" transform="translate(-53.000000, -538.000000)">
+            <g id="Navigation" transform="translate(24.000000, 24.000000)">
+                <g id="calendar" transform="translate(18.000000, 328.000000)" filter="url(#filter-1)">
+                    <g transform="translate(11.000000, 186.000000)">
+                        <path d="M10.7142857,4.33333333 L19.2857143,4.33333333 L19.2857143,2.16666667 C19.2857143,0.970260417 20.2433036,0 21.4285714,0 C22.6138393,0 23.5714286,0.970260417 23.5714286,2.16666667 L23.5714286,4.33333333 L26.7857143,4.33333333 C28.5602679,4.33333333 30,5.78838542 30,7.58333333 L30,13 L0,13 L0,7.58333333 C0,5.78838542 1.4390625,4.33333333 3.21428571,4.33333333 L6.42857143,4.33333333 L6.42857143,2.16666667 C6.42857143,0.970260417 7.38616071,0 8.57142857,0 C9.75669643,0 10.7142857,0.970260417 10.7142857,2.16666667 L10.7142857,4.33333333 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                        <path d="M0,13 L30,13 L30,30.85 C30,32.5890625 28.5602679,34 26.7857143,34 L3.21428571,34 C1.4390625,34 0,32.5890625 0,30.85 L0,13 Z" id="Path" fill="#000000" fill-rule="nonzero" opacity="0.4"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

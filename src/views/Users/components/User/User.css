@@ -1,0 +1,55 @@
+.EmployeeWrapper {
+    height: 54.55px;
+    width: 1101px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border: 1px solid #E4E7EF;
+}
+
+.NameContainer {
+    margin-left: 10px;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    max-width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.CapacityContainer {
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-left: 5px;
+}
+
+
+.UsedContainer {
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.ProgressBarContainer {
+    margin-right: 70px;
+    width: 100%;
+}
+
+.JobTypeDropdownContainer {
+    margin-right: 40px;
+    width: 100%;
+}
+.IconContainer {
+    margin-right: 30px;
+}
+
+.IconContainer:hover{
+    cursor: pointer;
+}

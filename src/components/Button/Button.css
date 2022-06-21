@@ -1,0 +1,53 @@
+.ButtonExterior {
+    text-align: center;
+    margin-top: 20px;
+}
+.ButtonExterior :hover{
+    opacity: 0.8;
+}
+.Button {
+    border-radius: 8px;
+    border: transparent;
+    cursor: pointer;
+    margin: 20px 0 20px 0;
+}
+
+.ButtonInterior {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 19px;
+    text-align: center;
+}
+
+button[type="Create account"] {
+    width: 168px;
+    height: 50px;
+    background: linear-gradient(135deg, #88A7F1 0%, #506EDF 100%);
+}
+
+button[type="Login"] {
+    width: 136px;
+    height: 50px;
+    background: linear-gradient(135deg, #88A7F1 0%, #506EDF 100%);
+}
+
+button[type="Re-generate"] {
+    width: 136px;
+    height: 39px;
+    background: linear-gradient(135deg, #88BFC2 0%, #37B9C6 100%);
+}
+
+button[type="Download PDF"] {
+    width: 136px;
+    height: 39px;
+    background: linear-gradient(135deg, #88A7F1 0%, #506EDF 100%);
+}
+
+button[type="Generate schedule"] {
+    width: 190px;
+    height: 50px;
+    background: linear-gradient(135deg, #88BFC2 0%, #37B9C6 100%);
+}

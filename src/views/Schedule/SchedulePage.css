@@ -1,0 +1,9 @@
+.ScheduleContainer {
+    position: absolute;
+    text-align: center;
+    height: 500px;
+    top: 34%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}

@@ -1,0 +1,79 @@
+.UsersPanelWrapper {
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 10px;
+    overflow-y: scroll;
+    height: 650px;
+    width: 1113px;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,0.5);
+}
+
+.HeaderWrapper {
+    background-color: rgba(80, 110, 223, 0.1);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+}
+
+.NameText {
+    margin-left: 13px;
+    height: 19px;
+    color: #2F2F2F;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 19px;
+    max-width: 25px;
+}
+
+.CapacityText {
+    margin-left: 175px;
+    height: 19px;
+    max-width: 20px;
+    color: #2F2F2F;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 19px;
+}
+
+.UsedText {
+    margin-left: 145px;
+    height: 19px;
+    max-width: 20px;
+    color: #2F2F2F;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 19px;
+}
+
+.TypeText {
+    margin-left: 502px;
+    height: 19px;
+    width: 50px;
+    color: #2F2F2F;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 19px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
