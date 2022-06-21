@@ -9,5 +9,5 @@ const remoteConfig = {
 }
 
 
-export const baseWebUrl = localConfig.UrlWeb;
-export const baseApiUrl = localConfig.UrlApi;
+export const baseWebUrl = remoteConfig.UrlWeb;
+export const baseApiUrl = remoteConfig.UrlApi;
