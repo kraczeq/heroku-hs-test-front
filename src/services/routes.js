@@ -4,7 +4,7 @@ const localConfig = {
 }
 
 const remoteConfig = {
-    UrlWeb: "https://hospital-schedule-web.herokuapp.com",
+    UrlWeb: "https://heroku-schedule-app-web.herokuapp.com",
     UrlApi: "https://hospital-schedule-heroku.herokuapp.com"
 }
 
