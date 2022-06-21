@@ -1,8 +1,7 @@
 import Taskbar from "../../components/Taskbar/Taskbar";
 import PageTitle from "../../components/PageTitle/PageTitle";
 import Button from "../../components/Button/Button";
-import html2canvas from 'html2canvas'
-import {jsPDF} from 'jspdf'
+
 import { useContext } from 'react';
 import { UserContext } from "../../contexts/UserContext";
 import { useNavigate, useParams } from "react-router-dom"
@@ -14,7 +13,7 @@ const WeekSchedulePage = (props) =>
 {
     const navigate = useNavigate();
     const { userState } = useContext(UserContext);
-
+/*
     const exportPdf = async () => {
         await html2canvas(document.querySelector("#capture")).then(canvas => {
             
@@ -23,7 +22,7 @@ const WeekSchedulePage = (props) =>
             pdf.addImage(imgData, 'PNG',0, 0, -140, 0, undefined, false);
             pdf.save("Schedule.pdf"); 
        });
-    }
+    }*/
     //<div id="capture"> to choose from which div the screenshot will be taken
     //in Button add clickEffect={exportPdf} to make a download onClick
     //delete comments after changes are done
@@ -41,7 +40,7 @@ const WeekSchedulePage = (props) =>
             </div>
             <div className="ButtonsBox">
                 <Button buttonContent="Re-generate" type="submit"  clickEffect={reGenerate}/>
-                <Button buttonContent="Download PDF" type="submit" clickEffect={exportPdf} />
+                <Button buttonContent="Download PDF" type="submit" clickEffect={reGenerate} />
             </div>
             <div className="WeekScheduleGridsWrapper">
                 <div>
