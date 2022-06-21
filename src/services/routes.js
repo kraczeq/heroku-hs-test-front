@@ -6,7 +6,7 @@ const localConfig = {
 const remoteConfig = {
     UrlWeb: "https://heroku-schedule-app-web.herokuapp.com",
     UrlApi: "https://hospital-schedule-heroku.herokuapp.com"
-}
+} //change to your app urls
 
 
 export const baseWebUrl = remoteConfig.UrlWeb;
